@@ -14,6 +14,7 @@ export default function Home({exploreData, cardsData}) {
       
       <Head>
         <title>AirBnb</title>
+        <link href="https://unpkg.com/tailwindcss@^1.0/dist/tailwind.min.css" rel="stylesheet"></link>
         <meta name="pinterest" content="nopin" />
       </Head>
 
