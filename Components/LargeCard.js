@@ -14,7 +14,7 @@ function LargeCard({img, title, description, button}) {
             <button className="my-5 py-2 px-4 align-middle text-sm text-white bg-gray-900 rounded-md">{button}</button>
         </div>
 
-    </div>
+    </div> 
   );
 }
 

@@ -11,7 +11,7 @@ export default function Home({exploreData, cardsData}) {
   const scrollRef = useHorizontalScroll();
   return (
     <div >
-      
+        
       <Head>
         <title>AirBnb</title>
         <link href="https://unpkg.com/tailwindcss@^1.0/dist/tailwind.min.css" rel="stylesheet"></link>
@@ -19,7 +19,7 @@ export default function Home({exploreData, cardsData}) {
       </Head>
 
       {/* Header component */}
-      <Header />
+      <Header /> 
       
       {/* Banner component */}
       <Banner />

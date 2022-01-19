@@ -10,5 +10,5 @@ function Columns({title, p1, p2, p3, p4}) {
       </div>
     );
   }
-  
+   
   export default Columns;

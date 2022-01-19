@@ -17,6 +17,6 @@ function SmallCard({img, location, distance}) {
     </div>
 
   )
-}
+} 
 
 export default SmallCard;

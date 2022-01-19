@@ -10,7 +10,7 @@ function Footer() {
                 p2="This site is"
                 p3="Not real"
                 p4="It's a clone"
-                /> 
+                />  
 
                 <Columns 
                 title="Community"
